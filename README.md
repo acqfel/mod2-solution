@@ -1,3 +1,3 @@
-Angula Code
+Angular Code
 
 Shopping List
